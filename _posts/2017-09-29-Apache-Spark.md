@@ -1,8 +1,6 @@
 # Spark
 > Apache Spark™ is a fast and general engine for large-scale data processing.
 
-* version 1.6.2
-
 ## 개요
 * 스파크는 개발자가 비지니스 로직을 함수로 정의한 후에, 이 함수를 스파크 클러스의 노드들로 보내서 수행
 * 스파크 내에 저장된 데이타를 RDD라고 하고, 변경이 불가능
